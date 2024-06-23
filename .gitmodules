@@ -1,0 +1,6 @@
+[submodule "test/lib/googletest"]
+	path = test/lib/googletest
+	url = https://github.com/google/googletest.git
+[submodule "lib/SimpleThreadPool"]
+	path = lib/SimpleThreadPool
+	url = https://github.com/ketsuaza/SimpleThreadPool.git
